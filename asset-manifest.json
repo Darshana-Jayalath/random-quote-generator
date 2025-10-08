@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Darshana-Jayalath.github.io/random-quote-generator/static/css/main.c7ff71d3.css",
+    "main.js": "/Darshana-Jayalath.github.io/random-quote-generator/static/js/main.c8335e90.js",
+    "index.html": "/Darshana-Jayalath.github.io/random-quote-generator/index.html",
+    "main.c7ff71d3.css.map": "/Darshana-Jayalath.github.io/random-quote-generator/static/css/main.c7ff71d3.css.map",
+    "main.c8335e90.js.map": "/Darshana-Jayalath.github.io/random-quote-generator/static/js/main.c8335e90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ff71d3.css",
+    "static/js/main.c8335e90.js"
+  ]
+}
