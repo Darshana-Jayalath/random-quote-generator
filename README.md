@@ -38,7 +38,7 @@ Follow these steps to run the project locally 👇
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/random-quote-generator.git
+
 
 2️⃣ Navigate into the project directory
 
