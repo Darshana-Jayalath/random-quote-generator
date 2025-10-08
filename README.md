@@ -37,16 +37,20 @@ Vite – For fast React development
 Follow these steps to run the project locally 👇
 
 1️⃣ Clone the repository
+
 git clone https://github.com/yourusername/random-quote-generator.git
 
 2️⃣ Navigate into the project directory
+
 cd random-quote-generator
 
 3️⃣ Install dependencies
+
 npm install
 
 
 (This command installs all the required React and Vite dependencies.)
 
 4️⃣ Start the development server
+
 npm run dev
